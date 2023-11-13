@@ -3,9 +3,15 @@ let num=0;
 for(let i=0;i<arr.length;i++)
 {
     for(let j=i+1;j<arr.length;j++){
-        if(arr[j]>arr[j+1])
-        {
-            
-        }
+      if(arr[i]>arr[j])
+      {
+        num=arr[i];
+        arr[i]=arr[j];
+        arr[j]=num;
+        console.log(arr[i]);
+      }
+      console.log(arr);
     }
 }
+
+console.log(arr)
