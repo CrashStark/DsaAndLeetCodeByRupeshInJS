@@ -1,0 +1,84 @@
+### Arrays and Strings:
+1. **Two Sum:**
+   - Given an array of integers, find two numbers such that they add up to a specific target.
+
+2. **Rotate Array:**
+   - Rotate an array to the right by k steps.
+
+3. **Remove Duplicates from Sorted Array:**
+   - Modify the array in-place to remove duplicates, return the new length.
+
+4. **Merge Sorted Arrays:**
+   - Merge two sorted arrays into one sorted array.
+
+5. **Valid Parentheses:**
+   - Determine if a given string of parentheses is valid.
+
+6. **Longest Substring Without Repeating Characters:**
+   - Find the length of the longest substring without repeating characters.
+
+### Linked Lists:
+7. **Reverse Linked List:**
+   - Reverse a singly linked list.
+
+8. **Detect Cycle in Linked List:**
+   - Detect if a linked list has a cycle.
+
+9. **Merge Two Sorted Lists:**
+   - Merge two sorted linked lists into one sorted linked list.
+
+10. **Remove Nth Node From End of List:**
+    - Remove the nth node from the end of a linked list.
+
+### Stacks and Queues:
+11. **Implement a Stack and Queue:**
+    - Implement these data structures from scratch.
+
+12. **Valid Parentheses (using Stack):**
+    - Solve the valid parentheses problem using a stack.
+
+13. **Queue using Stacks:**
+    - Implement a queue using two stacks.
+
+### Trees and Graphs:
+14. **Binary Tree Traversal (Inorder, Preorder, Postorder):**
+    - Implement these tree traversal algorithms.
+
+15. **Binary Search Tree (BST) Operations:**
+    - Implement insertion, deletion, and search in a BST.
+
+16. **Graph Traversal (BFS, DFS):**
+    - Implement breadth-first search (BFS) and depth-first search (DFS) for a graph.
+
+17. **Dijkstra's Shortest Path Algorithm:**
+    - Implement Dijkstra's algorithm to find the shortest path in a weighted graph.
+
+### Dynamic Programming:
+18. **Fibonacci Series:**
+    - Solve the Fibonacci sequence problem using dynamic programming.
+
+19. **Longest Increasing Subsequence:**
+    - Find the length of the longest increasing subsequence in an array.
+
+20. **Knapsack Problem:**
+    - Solve the 0/1 Knapsack problem using dynamic programming.
+
+### Sorting and Searching:
+21. **QuickSort and MergeSort:**
+    - Implement QuickSort and MergeSort algorithms.
+
+22. **Binary Search:**
+    - Implement the binary search algorithm.
+
+23. **Search in Rotated Sorted Array:**
+    - Search for a target in a rotated sorted array.
+
+### Miscellaneous:
+24. **LRU Cache:**
+    - Implement an LRU (Least Recently Used) cache.
+
+25. **Top K Frequent Elements:**
+    - Find the k most frequent elements in an array.
+
+26. **Minimum Spanning Tree (Prim's or Kruskal's):**
+    - Implement Prim's or Kruskal's algorithm to find the minimum spanning tree of a graph.
