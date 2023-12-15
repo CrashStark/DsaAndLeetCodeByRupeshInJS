@@ -13,8 +13,8 @@ class List {
     let newNod ={
         value:node,
         next:null
-    }
-    this.head.next=newNod;
+    };
+    this.tail.next=newNod;
     this.tail=newNod;
   }
 }
@@ -24,4 +24,6 @@ var ls=new List(10);
 ls.appendNode(20);
 console.log(ls);
 ls.appendNode(30);
-console.log(ls);
+console.log(ls.toString());
+ls.appendNode(40);
+console.log(ls.toString());
