@@ -9,5 +9,6 @@ function powFunction(num, pow) {
     return 2 * powFunction(2, power - 1);
 
 }
-
+//Today i have not committed any js code as i was working on company project on Java
+//will complete once the project is finished
 console.log(powFunction(2,power));
