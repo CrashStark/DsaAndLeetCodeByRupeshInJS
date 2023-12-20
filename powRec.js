@@ -11,4 +11,5 @@ function powFunction(num, pow) {
 }
 //Today i have not committed any js code as i was working on company project on Java
 //will complete once the project is finished
+//right now understanding Java
 console.log(powFunction(2,power));
